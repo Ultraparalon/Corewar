@@ -1,6 +1,10 @@
 # Corewar
 virtual machine and visualization for game called "Corewar"
 
+Visualization built on ncurses.
+
+Example how to run:
+./corewar -v vm_champs/Gagnant.cor vm_champs/jumper.cor
 
 ![a:](https://github.com/Ultraparalon/Corewar/raw/master/screenshots/1.png)
 ![a:](https://github.com/Ultraparalon/Corewar/raw/master/screenshots/2.png)
